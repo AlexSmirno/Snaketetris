@@ -5,4 +5,4 @@ A game combining snake and tetris together. I got the idea from an English-speak
 ![](https://github.com/AlexSmirno/Snaketetris/blob/main/example.gif)
 
 
-<img src="[...](https://github.com/AlexSmirno/Snaketetris/blob/main/example.gif)" width="250" height="250">
+<img src="https://github.com/AlexSmirno/Snaketetris/blob/main/example.gif" width="250" height="250">
